@@ -1,0 +1,17 @@
+
+// programa de solucções computacionais.
+// Lista 2 ( atividade 1)
+//Aluno: João Victor Maia Leite
+// RA: 323124931
+
+
+//Faça um Programa que mostre a mensagem "Alo mundo" na tela.
+
+
+
+public class atividade8 {
+    public static void main(String[] args) throws Exception {
+        
+        System.out.println( "alo mundo");
+    }
+}
